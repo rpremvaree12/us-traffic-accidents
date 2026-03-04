@@ -1,6 +1,8 @@
 data/*.parquet
 data/*.csv
+data/*.zip
 .DS_Store
+.ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
